@@ -1,4 +1,4 @@
-# 
+# Inteligente Ollama extensiones. Con agentes colaborativos y memoria contextual — optimizado para el máximo rendimiento y eficiencia.
 
 
 
